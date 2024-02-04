@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	dipa "github.com/Ardivadiva/geobe"
+	dipa ""
 )
 
 func HelloHTTP(w http.ResponseWriter, r *http.Request) {
